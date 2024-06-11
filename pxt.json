@@ -1,0 +1,34 @@
+{
+    "name": "P6 #2_Week10test-spawn - Copy",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.2.8",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "animation": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.16.70",
+        "tag": "v0.16.70",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/a092ed8074354008d71bfcb5d4b88f4695213c4a",
+        "target": "1.12.53",
+        "pxt": "5.37.28",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
